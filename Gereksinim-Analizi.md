@@ -13,5 +13,4 @@
 
 
 
-1.[Gereksinim Analizi](https://github.com/ssk-hvrboard/ym_project/blob/main/README.md) 
 
