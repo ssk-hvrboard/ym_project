@@ -34,3 +34,6 @@ Tek Çalışıyorum / Cavarsela
 - Haber Yorumlama ve Değerlendirme  
 - Bildirim Sistemi 
 - Popüler ve Son Dakika Haberleri Gösterme
+
+
+1. [Gereksinim analizi](gereksinim-analizi) 
