@@ -35,4 +35,3 @@ Tek Çalışıyorum / Cavarsela
 - Bildirim Sistemi 
 - Popüler ve Son Dakika Haberleri Gösterme
 
-[giriş](https://www.bundle.app/) 
