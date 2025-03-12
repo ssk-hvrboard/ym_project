@@ -34,4 +34,4 @@ Tek Çalışıyorum / Cavarsela
 - Haber Yorumlama ve Değerlendirme  
 - Bildirim Sistemi 
 - Popüler ve Son Dakika Haberleri Gösterme
-Giriş.md
+
