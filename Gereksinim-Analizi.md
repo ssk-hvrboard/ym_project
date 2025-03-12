@@ -1,4 +1,4 @@
-#Gereksinimler
+# Gereksinimler
 - Kullanıcı Kayıt 
 - Giriş Sistemi  
 - Haber Kaynaklarından Veri Çekme  
