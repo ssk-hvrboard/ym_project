@@ -38,4 +38,4 @@ Tek Çalışıyorum / Cavarsela
 
 
 
-1. [Gereksinim analizi](#Gereksinim-Analizi.md) 
+1.[Gereksinim Analizi](Gereksinim-Analizi.md) 
