@@ -38,4 +38,4 @@ Tek Çalışıyorum / Cavarsela
 
 
 
-1.[Gereksinim Analizi](Gereksinim-Analizi.md) 
+1.[Gereksinim Analizi] (https://github.com/ssk-hvrboard/ym_project/blob/main/README.md) 
