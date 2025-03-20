@@ -1,9 +1,9 @@
 
-# CAVARSELA
+#CAVALIERE
 
 
 
-HABER SİTEM (Cavaliere)
+Cavaliere
 Proje Tanımı  
 Bu proje, kullanıcılara ilgi alanlarına göre kişiselleştirilmiş haber içerikleri sunan modern bir haber platformudur. Kullanıcılar en güncel haberleri takip edebilir, kategorilere göre filtreleme yapabilir, favorilere ekleme ve arama gibi özellikleri kullanabilirler.  
 
@@ -17,7 +17,7 @@ Uygulama Adresi
  // 
 
  Grup Adı  
-Tek Çalışıyorum / Cavarsela
+//Cavarsela
 
  Proje Ekibi  
 - Süleyman Selim KAŞLI  
