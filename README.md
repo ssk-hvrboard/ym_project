@@ -29,8 +29,10 @@ Uygulama Adresi
 
 
 1.[Gereksinim Analizi](https://github.com/ssk-hvrboard/ym_project/blob/main/Gereksinim-Analizi.md) 
-2. [Durum Diyagramı](Durum-Diyagramı.md)
-3. [Durum Senaryoları](Durum-Senaryoları.md)
+
+2.[Durum Diyagramı](Durum-Diyagramı.md)
+
+3.[Durum Senaryoları](Durum-Senaryoları.md)
 
 
 
