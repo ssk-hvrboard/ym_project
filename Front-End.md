@@ -1,6 +1,6 @@
 Domain : [Cavaliere](https://cavaliere-new.vercel.app)
 
-SÜLEYMAN SELİM KAŞLI GEREKSİNİMLERİ  
+# Süleyman Selim KAŞLI Frontend #  
 1.Kullanıcı Kayıt  
 2.Giriş Sistemi  
 3.Haber Kaynaklarından Veri Çekme  
