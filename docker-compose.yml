@@ -1,0 +1,54 @@
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: cavaliere_db
+    environment:
+      POSTGRES_DB: cavaliere_news
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - cavaliere_network
+
+  # Backend API
+  backend:
+    build: ./backend
+    container_name: cavaliere_backend
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: cavaliere_news
+      DB_USER: postgres
+      DB_PASSWORD: password
+      JWT_SECRET: your_jwt_secret_key_here
+      PORT: 5000
+    ports:
+      - "5000:5000"
+    depends_on:
+      - postgres
+    networks:
+      - cavaliere_network
+    restart: unless-stopped
+
+  # Frontend React App
+  frontend:
+    build: ./frontend-react
+    container_name: cavaliere_frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks:
+      - cavaliere_network
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+
+networks:
+  cavaliere_network:
+    driver: bridge 
